@@ -1,0 +1,17 @@
+{
+  "name": "session-cookie-example",
+  "description": "Set Session Cookie Example",
+  "version": "0.0.1",
+  "engines": {
+    "node": "4.4.3"
+  },
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cookie-session": "2.0.0-alpha.1",
+    "express": "4.13.4"
+  }
+}
